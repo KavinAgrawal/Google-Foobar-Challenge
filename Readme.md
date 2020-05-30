@@ -30,11 +30,11 @@ Traveling through a nebula is a really bad idea, but with Commander Lambda hot o
 
 With one last roar of the escape pod's engines, you and your bunny companions jump to lightspeed. Congratulations! You've destroyed the LAMBCHOP, rescued the bunnies, gotten Commander Lambda off your tail, and saved the galaxy. Time for a little rest and relaxation back on Bunny Planet. Pat yourself on the back - you've earned it!
 
-<img src="Foobar_Completion.PNG" width="500" />
+<img src="Foobar_Completion.PNG" width="1000" />
 
-<img src="Foobar_Initiation.png" width="500" />
+<img src="Foobar_Initiation.png" width="11000" />
 
-<img src="My_Encryption.png" width="500" />
+<img src="My_Encryption.png" width="1000" />
 
 Encrypted Message after finish:
 
