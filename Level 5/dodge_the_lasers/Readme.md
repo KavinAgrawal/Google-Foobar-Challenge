@@ -1,6 +1,6 @@
 ## Dodge the Lasers!
 
-Time to solve: 48 hours.
+Time to solve: 528 hours.
 
 ### Description
 
